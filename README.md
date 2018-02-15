@@ -2,7 +2,7 @@
 
 ![no-alt-text](https://i.imgur.com/bKlEz2r.png "Wide-angle")
 
-The Interlaced Mirror is built off of a very simple idea: take camera input, for every other line - show the inverse, and set the background to the original camera image. This produces an almost retro effect where as the image is broken up to resemble both a failed attempt at creating an artifically increased framerate, as well as an image that is superimposed upon its self. Showing two videos simultainiously, the mirror is engaging as the user is encouraged to discover their own symmetry in the reflection, as well as the rules of the space.  
+The Interlaced Mirror is built off of a very simple idea: take camera input, for every other line - show the inverse, and set the background to the original camera image. This produces an almost retro effect where, as the image is broken up to resemble both a failed attempt at creating an artifically increased framerate, as well as an image that is superimposed upon its self. Showing two videos simultainiously, the mirror is engaging as the user is encouraged to discover their own symmetry in the reflection, as well as the rules of the space.  
 
 Below you will find the original sketch where I came up with the idea.
 ![no-alt-text](https://i.imgur.com/LJw8KlR.png)
