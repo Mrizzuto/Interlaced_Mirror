@@ -7,7 +7,7 @@ The Interlaced Mirror is built off of a very simple idea: take camera input, for
 Below you will find the original sketch where I came up with the idea.
 ![no-alt-text](https://i.imgur.com/LJw8KlR.png)
 
-The Interlaced Mirror started as an attempt to emphisize the effect of interlaceing. While slowing the frames of every other line did render an interesting effect, it wasn't engaging enough. In inverting the frame, the user is encouraged to explore - see how their movement and positioning is interpreted by the sketch. The sketch is rather simple, perhaps more simple than I would have wished, however I found that the more distortion I added to the mirror, the less useable It became. That said I do have a couple more Ideas that I might add after the fact involving color. Because I am short on time they will most likely not make it into the project.
+The Interlaced Mirror started as an attempt to emphisize the effect of interlaceing. While slowing the frames of every other line did render an interesting effect, it wasn't engaging enough. In inverting the frame, the user is encouraged to explore - see how their movement and positioning is interpreted by the sketch. The sketch is rather simple, perhaps more simple than I would have wished, however I found that the more distortion I added to the mirror, the less useable It became. That said I do have a couple more Ideas that I might add after the fact involving color.
 
 Below is a link to the video of the sketch running:
 
